@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_23" data-name="Group 23" transform="translate(-8)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="30" height="30" rx="15" transform="translate(8)" fill="#50e3c2"/>
+    <g id="chatbox-working" transform="translate(17 9)">
+      <path id="Shape" d="M9.692,12h0l-.177-.122c-.582-.4-2.129-1.453-2.293-1.573l-.005,0c-.193-.144-.2-.147-.608-.147H2.2A2.136,2.136,0,0,1,0,8.095V2.068A2.14,2.14,0,0,1,2.2,0H9.8A2.14,2.14,0,0,1,12,2.068V8.095a2.136,2.136,0,0,1-2.2,2.059H9.692V12Zm-.92-7.846a.923.923,0,1,0,.922.923A.924.924,0,0,0,8.772,4.154ZM6,4.154a.923.923,0,1,0,.923.923A.924.924,0,0,0,6,4.154Zm-2.769,0a.923.923,0,1,0,.923.923A.924.924,0,0,0,3.234,4.154Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

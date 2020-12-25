@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_22" data-name="Group 22" transform="translate(-8)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="30" height="30" rx="15" transform="translate(8)" fill="#ff2d55"/>
+    <g id="play" transform="translate(20 10)">
+      <path id="Shape" d="M6.631,4.063,1.131.124C.684-.2,0,.115,0,.906V8.782c0,.71.636,1.138,1.131.782l5.5-3.937A1.013,1.013,0,0,0,6.631,4.063Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

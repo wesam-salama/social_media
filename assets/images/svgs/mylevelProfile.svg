@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Level" d="M12,12H9.333V.667c0-.418.2-.667.534-.667h1.467A.667.667,0,0,1,12,.667V12ZM7.333,12H4.667V4.667c0-.418.2-.667.534-.667H6.666a.668.668,0,0,1,.667.667V12ZM2.667,12H0V8.667C0,8.249.2,8,.534,8H2a.668.668,0,0,1,.667.667V12Z" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_26" data-name="Group 26" transform="translate(-8)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="30" height="30" rx="15" transform="translate(8)" fill="#5ac8fa"/>
+    <g id="Icons_level" data-name="Icons/level" transform="translate(17 9)">
+      <path id="Level-2" data-name="Level" d="M12,12H9.333V.667c0-.418.2-.667.534-.667h1.467A.667.667,0,0,1,12,.667V12ZM7.333,12H4.667V4.667c0-.418.2-.667.534-.667H6.666a.668.668,0,0,1,.667.667V12ZM2.667,12H0V8.667C0,8.249.2,8,.534,8H2a.668.668,0,0,1,.667.667V12Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
